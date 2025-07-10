@@ -1,0 +1,9 @@
+/home/shinonn/Documents/Projects/copacabana-test/.venv/bin/python
+2025-07-11 00:09:26,065 Worker rq:worker:fe0f5dcbd66f42dba2fe8e63c82958b4 started with PID 36581, version 2.4.0
+2025-07-11 00:09:26,065 Subscribing to channel rq:pubsub:fe0f5dcbd66f42dba2fe8e63c82958b4
+2025-07-11 00:09:26,066 *** Listening on home-shinonn-Documents-Projects-copacabana-test:short, home-shinonn-Documents-Projects-copacabana-test:default, home-shinonn-Documents-Projects-copacabana-test:long...
+2025-07-11 00:09:26,066 Cleaning registries for queue: home-shinonn-Documents-Projects-copacabana-test:short
+2025-07-11 00:09:26,066 Cleaning registries for queue: home-shinonn-Documents-Projects-copacabana-test:default
+2025-07-11 00:09:26,067 Cleaning registries for queue: home-shinonn-Documents-Projects-copacabana-test:long
+2025-07-11 00:09:35,525 Worker fe0f5dcbd66f42dba2fe8e63c82958b4 [PID 36581]: warm shut down requested
+2025-07-11 00:09:35,525 Unsubscribing from channel rq:pubsub:fe0f5dcbd66f42dba2fe8e63c82958b4

@@ -1,0 +1,9 @@
+[project]
+name = "copacabana-test"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "frappe-bench>=5.25.9",
+]
